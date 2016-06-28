@@ -1,0 +1,18 @@
+{
+  "TileCollection" : [
+    {
+      "icon" : "group",
+      "number" : "89",
+      "title" : "Team A",
+      "info" : "Alerts",
+      "infoState" : "Error"
+    },
+    {
+      "icon": "group",
+      "number": "102",
+      "title" : "Team B",
+      "info" : "Alerts",
+      "infoState" : "Success"
+    }
+  ] 
+}
